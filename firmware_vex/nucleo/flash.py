@@ -195,7 +195,7 @@ def check():
     slave.__init__(enabled=False)
 
 
-def erase(debug=False):
+def erase(debug=True):
     # machine.reset()
     led = Led()
     # led = Led(None)

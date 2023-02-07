@@ -1,4 +1,4 @@
-export PATH=$PATH:/bin:/usr/local/bin/:../../venv/bin:/usr/bin/:.
+#export PATH=${PATH}:/bin:/usr/local/bin/:../../venv/bin:/usr/bin/:.
 
 # --- automatically set ---
 #DEV=/dev/cu.usbmodem33203
